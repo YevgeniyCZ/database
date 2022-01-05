@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, fugiat.Why do we use it?\nIt is a long established fact that a reader will be distracted ",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Opening Party",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted ",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "Blog 2021 REACT",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis illo delectus repudiandae voluptatum reiciendis error voluptatibus molestiae accusantium quae consequuntur!",
+      "author": "yoshi",
+      "id": 3
+    }
+  ]
+}
